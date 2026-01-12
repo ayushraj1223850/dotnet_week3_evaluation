@@ -72,35 +72,6 @@ An online order processing system that manages orders, tracks order status chang
 - Repository Pattern
 - Business rule validation
 
----
-## Project Structure
-WEEK_EVAL3
-│
-├── PayrollSystem
-│ ├── Employee.cs
-│ ├── FullTimeEmployee.cs
-│ ├── ContractEmployee.cs
-│ ├── PaySlip.cs
-│ ├── EmployeeRepository.cs
-│ ├── PayrollProcessor.cs
-│ ├── Notifications.cs
-│ └── Program.cs
-│
-├── OrderProcessingSystem
-│ ├── Product.cs
-│ ├── Customer.cs
-│ ├── Order.cs
-│ ├── OrderItem.cs
-│ ├── OrderStatus.cs
-│ ├── OrderStatusLog.cs
-│ ├── OrderRepository.cs
-│ ├── OrderService.cs
-│ ├── Notifications.cs
-│ └── Program.cs
-│
-└── .gitignore
----
-
 ## How to Run
 
 ### Prerequisites
